@@ -1,0 +1,3 @@
+Writing data using node.js
+appended data successfuly
+Now time to work on challenges
